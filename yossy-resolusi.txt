@@ -3,3 +3,4 @@ YOSSI RESOLUSI
 - Membuat Website Porfolio
 - Membuat Website Sistem Informasi
 - Membuat Website Sipercon
+- Mengintegrasikan sipercon dengan simda keungan
